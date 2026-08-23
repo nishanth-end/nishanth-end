@@ -30,12 +30,11 @@
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishanth-end&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishanth-end&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+  <img src="https://github-stats-extended.vercel.app/api?username=nishanth-end&rank_icon=percentile&include_all_commits=true&theme=transparent" height="165"/>
+ 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanth-end&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=nishanth-end&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ### 🐍 Contribution graph
@@ -46,7 +45,4 @@
 
 ### 📫 Reach me
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Ground%20Signal-000000?style=flat-square&logo=substack&logoColor=white" /></a>
-</p>
+<p align="center"> <a href="https://www.linkedin.com/in/nishend"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a> <a href="https://substack.com/@nishend"><img src="https://img.shields.io/badge/-Ground%20Signal-000000?style=flat-square&logo=substack&logoColor=white" /></a> </p>
