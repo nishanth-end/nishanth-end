@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm nish.end</h1>
 
 <p align="center">
-  CSE @ DSCE Bengaluru · Building civic-tech & local-first tools · Writing at <a href="#">Ground Signal</a>
+  CSE @ DSCE Bengaluru · Building civic-tech & local-first tools · Writing at <a href="https://substack.com/@nishend">Ground Signal</a>
 </p>
 
 <p align="center">
