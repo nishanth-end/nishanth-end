@@ -1,48 +1,70 @@
-<h1 align="center">Hey, I'm nish.end</h1>
+```
+┌──────────────────────────────────────────┐
+│  NISH.END                                │
+│  FILED FROM: BENGALURU                   │
+│  12.9716° N, 77.5946° E                  │
+│  STATUS: BUILDING TOOLS FOR NEWS         │
+│          ACCOUNTABILITY                  │
+│  LAST FILED: OCTOBER 2026                │
+└──────────────────────────────────────────┘
+```
 
-<p align="center">
-  CSE @ DSCE Bengaluru · Building civic-tech & local-first tools · Writing at <a href="https://substack.com/@nishend">Ground Signal</a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
-</p>
+I write [Ground Signal](https://groundsignal.substack.com) and build tools for news accountability. CS major, journalist.
 
 ---
 
-### 🛰️ What I'm building
+### 00 · DISPATCH
 
-- **[integral-geo](https://github.com/nishanth-end/integral-geo)** — mapping NHAI road construction projects across Karnataka using government PDF reports, OSM geocoding, and Leaflet. Civic accountability, made visible.
-- **Ground Signal** — an independent publication covering geopolitics, finance, and tech from an India-first lens.
-- **WhatsApp Chat Intelligence** — local LLM pipeline (Ollama, Gemma, Qwen2.5-coder) for private conversation analysis, no cloud dependency.
+- Building an ML project: [`n2m-rain-model`](https://github.com/nishanth-end/n2m-rain-model)
+- Building Integral Signal, a citation and accountability tracker for news
+- Updating Integral Geo: a data pipeline that parses NHAI documents
+- Procrastinating launch.
 
-### ⚙️ How I work
+---
 
-- Local-first when I can: Ollama on an M5 MacBook Air for scaffolding, cloud models for coherence work across large projects.
-- Linux tinkerer — Mint on repurposed hardware, LineageOS on old tablets. Believer in keeping old machines alive.
-- Currently deep in DSA prep and systems fundamentals, aiming toward SWE roles in NYC.
+### 01 · SITES SURVEYED
+*(projects)*
 
-### 📊 Stats
+**Integral Signal** · `DEVELOPING`\
+Citation tracker and news integrity tool.\
+Real journalism gets buried under corporate noise. Knowing what we're reading is what we lack.\
+→ [github.com/nishanth-end/integral-signal](https://github.com/nishanth-end/integral-signal)
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=nishanth-end&rank_icon=percentile&include_all_commits=true&theme=transparent" height="165"/>
- 
+**Integral Geo** · `V1 LIVE · DEVELOPING`\
+NHAI project tracker, an infrastructure integrity tool.\
+Roads are the backbone of the country's industries. People should be able to see how they're built.\
+→ [github.com/nishanth-end/integral-geo](https://github.com/nishanth-end/integral-geo)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nishanth-end&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+**N²M** · `DEVELOPING`\
+Flood prediction ML project with an automated alert system.\
+→ [github.com/nishanth-end/n2m-rain-model](https://github.com/nishanth-end/n2m-rain-model)
 
-### 🐍 Contribution graph
+---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nishanth-end/nishanth-end/output/github-contribution-grid-snake.svg" />
-</p>
+### 02 · BYLINES
 
-### 📫 Reach me
+- **Ground Signal**: personal online publication on politics, philosophy and technology → [groundsignal.substack.com](https://groundsignal.substack.com)
 
-<p align="center"> <a href="https://www.linkedin.com/in/nishend"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a> <a href="https://substack.com/@nishend"><img src="https://img.shields.io/badge/-Ground%20Signal-000000?style=flat-square&logo=substack&logoColor=white" /></a> </p>
+---
+
+### 03 · INSTRUMENTS
+
+- **DESK:** MacBook Air, Ollama, Antigravity
+- **FIELD:** Linux Mint on an old HP Pavilion, LineageOS tablet
+- **WIRE:** Python, pandas, SQL, HTML, CSS, Java
+
+---
+
+### 04 · FIELD NOTES
+
+- **Running:** 10K at 7:58 pace
+- **Listening:** The 1975, *Yearning Era*
+- **Bench:** Linux Mint, still alive on a 10-year-old HP Pavilion
+
+---
+
+### CONTACT
+
+Journalism and modern tech can work together, and that needs people building it. If you build or report in this space, get in touch.
+
+[nishanthenggex@gmail.com](mailto:nishanthenggex@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nishend/) · [Ground Signal](https://groundsignal.substack.com)
