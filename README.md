@@ -63,6 +63,9 @@ Flood prediction ML project with an automated alert system.\
 
 ---
 
+### 05 · STATS
+<img alt="GitHub stats for nishanth-end" src="https://github-stats-extended.vercel.app/api?username=nishanth-end&theme=radical" />
+<img alt="GitHub stats for nishanth-end" src="https://streak-stats.demolab.com?user=nishanth-end&theme=dark" />
 ### CONTACT
 
 Journalism and modern tech can work together, and that needs people building it. If you build or report in this space, get in touch.
